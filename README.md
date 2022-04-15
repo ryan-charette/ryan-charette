@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ryan-charette
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Ryan!
+- 👀 I’m interested in computational mathematics and the ability to solve real-world problems with software.
+- 🌱 I’m currently learning the basics of software development.
+- 💞️ I’m looking to collaborate on any projects that'll take a newbie!
+- 📫 If you'd like to reach out, please message me on LinkedIn.
 
 <!---
 ryan-charette/ryan-charette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
