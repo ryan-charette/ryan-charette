@@ -1,8 +1,14 @@
-# 👋 Hi, I’m Ryan!
-- 👀 I’m interested in computational mathematics and the ability to solve real-world problems with software.
-- 🌱 I’m currently learning the basics of software development.
-- 💞️ I’m looking to collaborate on any projects that'll take a newbie!
-- 📫 If you'd like to reach out, please message me on LinkedIn.
+# Hi, I’m Ryan!
+
+I'm a senior at UT Austin focusing on Applied Mathematics and Computer Science. I hope to work as a software engineer after I graduate, and plan to pursue a Master's degree part-time while doing so.
+
+I started learning Python in 2019, and love using it to analyze and solve problems. In 2022, I started branching out into other technologies like Java and HTML/CSS/JS to see what else is out there. 
+
+My work on GitHub reflects what I'm working on in my free time - if you see anything that interests you, feel free to reach out! I'm always happy to collaborate and help where I can.
+
+# What I'm working on
+
+I'm currently focusing on Data Structures/Algorithms and how to incorporate them into clean, maintainable code.
 
 <!---
 ryan-charette/ryan-charette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
