@@ -8,7 +8,7 @@ My work on GitHub reflects what I'm working on in my free time - if you see anyt
 
 # What I'm working on
 
-I'm currently focusing on Data Structures/Algorithms and how to incorporate them into clean, maintainable code.
+I'm currently focusing on Data Structures and Software Design.
 
 <!---
 ryan-charette/ryan-charette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
