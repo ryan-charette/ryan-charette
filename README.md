@@ -1,10 +1,10 @@
 # Hi, I’m Ryan!
 
-I'm a senior at UT Austin focusing on Applied Mathematics and Computer Science. I hope to work as a software engineer after I graduate, and plan to pursue a Master's degree part-time while doing so.
+I'm a senior at UT Austin focusing on Applied Mathematics and Computer Science. I hope to pursue graduate studies after completing my bachelor's. 
 
-I started learning Python in 2019, and love using it to analyze and solve problems. In 2022, I started branching out into other technologies like Java and HTML/CSS/JS to see what else is out there. 
+I started learning how to program as a kid, but my formal studies in the subject began at UT in 2019. I've grown fond of computer science as it relates to practical problem solving, and would like to continue to improve my programming skills in order to tackle more interesting and impactful problems.
 
-My work on GitHub reflects what I'm working on in my free time - if you see anything that interests you, feel free to reach out! I'm always happy to collaborate and help where I can.
+My public work on GitHub reflects what projects I'm working on in my free time. If you see anything that interests you, feel free to reach out! I'm always happy to collaborate and help where I can.
 
 # What I'm working on
 
