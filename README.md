@@ -1,6 +1,6 @@
 # Hi, I’m Ryan!
 
-I'm a senior at UT Austin focusing on Applied Mathematics and Computer Science. I hope to pursue graduate studies after completing my bachelor's. 
+I'm a senior at UT Austin focusing on Applied Mathematics and Computational Science. I hope to pursue graduate studies after completing my bachelor's. 
 
 I started learning how to program as a kid, but my formal studies in the subject began at UT in 2019. I've grown fond of computer science as it relates to practical problem solving, and would like to continue to improve my programming skills in order to tackle more interesting and impactful problems.
 
@@ -8,7 +8,7 @@ My public work on GitHub reflects what projects I'm working on in my free time. 
 
 # What I'm working on
 
-I'm currently focusing on Data Structures and Software Design.
+I'm currently focusing on Numerical Methods and Analysis.
 
 <!---
 ryan-charette/ryan-charette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
