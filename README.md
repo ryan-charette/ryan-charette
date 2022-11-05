@@ -1,19 +1,15 @@
-# Hi, I’m Ryan!
+# Bio
 
-I'm a senior at UT Austin focusing on Applied Mathematics and Computational Science. I hope to pursue graduate studies after completing my bachelor's. 
+Undergraduate Student at the University of Texas at Austin; Coursework in Mathematics and Scientific Computing.
 
-I started learning how to program as a kid, but my formal studies in the subject began at UT in 2019. I've grown fond of computer science as it relates to practical problem solving, and would like to continue to improve my programming skills in order to tackle more interesting and impactful problems.
+# Research Interests
 
-My public work on GitHub reflects what projects I'm working on in my free time. If you see anything that interests you, feel free to reach out! I'm always happy to collaborate and help where I can.
+Numerical Methods, Scientific Computing, Mathematical Modeling
 
-# What I'm working on
+Applied Mathematics considers the mathematical theory and foundations underlying scientific models. Through computational modeling and simulation, it aims to foster some scientific or societal goal. Additionally, it is concerned with algorithms, as well as their development, verification, and analysis. Of particular interest is teh approximation of functions that can not be solved analytically. 
 
-I'm currently focusing on Numerical Methods and Analysis.
 
 <!---
 ryan-charette/ryan-charette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-charette&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryan-charette)](https://git.io/streak-stats)
