@@ -1,6 +1,6 @@
 # Bio
 
-Research Affiliations: University of Texas at Austin (College of Natural Sciences)
+Research Affiliations: The University of Texas at Austin (College of Natural Sciences)
 
 # Research Interests
 
