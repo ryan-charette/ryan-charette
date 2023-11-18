@@ -4,8 +4,7 @@ Research Affiliations: The University of Texas at Austin (College of Natural Sci
 
 # Research Interests
 
-Numerical Analysis, Computational Astrophysics, Automated Reasoning
-
+Experimental Mathematics, Computational Mathematics (Topology, Geometry, Number Theory), Automated Logic
 
 <!---
 ryan-charette/ryan-charette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
