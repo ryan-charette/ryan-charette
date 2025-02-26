@@ -1,3 +1,7 @@
+Hi, I'm Ryan, a MSCS student at the University of Texas at Austin. Most of my work is in Python, with a focus on AI/ML and scientific computing. Currently, I'm focusing on deep learning at scale and online learning. I'm also working on improving my skills in C++. I have a strong background in mathematics and enjoy working with the Lean proof assistant in my spare time. 
+
+Feel free to reach out if you have any questions or want to collaborate!
+
 <p align="center">
   <img 
     height="50%" 
