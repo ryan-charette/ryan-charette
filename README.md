@@ -1,22 +1,11 @@
-Hi, I'm Ryan, a MSCS student at the University of Texas at Austin. Most of my work is in Python, with a focus on AI/ML and scientific computing. Currently, I'm focusing on deep learning at scale and online learning. I'm also working on improving my skills in C++. I have a strong background in mathematics and enjoy working with the Lean proof assistant in my spare time. 
+### Hi, I'm Ryan 👋
+I'm a mathematician and computer scientist. I’m interested in the space between elegant theory and inelegant reality. [Clifford](https://www.instagram.com/p/CaqYiWRMyBR) is usually a big help.
 
-Feel free to reach out if you have any questions or want to collaborate!
+- 🧑‍🏫 I do research at the intersection of machine learning and scientific computing
+- ⚙️ I build things that sit somewhere between theory and “actually useful” (like AI that uses topology to explain protein behavior and a deep-learning model for arithmetic coding)
+- 🧮 I like working with [Lean](https://github.com/leanprover/lean4) proof assistant. I’d love to see something like “citizen mathematics” become more of a thing
+- 🧙‍♂️ Big fan of Dungeons & Dragons. Currently working on a 500 room megadungeon for B/X (this probably counts as systems engineering)
+- 🎓 I studied math and computer science at UT Austin, where I learned the golden rule of problem solving: draw a picture first
+- 🎎 Fun fact: I studied [puppetry](https://en.wikipedia.org/wiki/Bunraku) in Kyoto, which might explain why I care so much about storytelling
 
-<p align="center">
-  <img 
-    height="50%" 
-    width="auto" 
-    src="https://github-readme-stats.vercel.app/api?username=ryan-charette&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&hide_rank=true&include_all_commits=true&show_owner=true&bg_color=00000000" 
-    alt="Ryan's GitHub Stats"
-  >
-    <img 
-    height="50%" 
-    width="auto" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-charette&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex" 
-    alt="Top Languages"
-  >
-    <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ryan-charette&theme=tokyonight&hide_border=true&background=FFFFFF00" 
-    alt="GitHub Streak"
-  >
-</p>
+I'm best reached via [email](mailto:ryanacharette@gmail.com). Feel free to reach out if you want to collaborate or just talk about interesting ideas!
