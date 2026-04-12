@@ -1,5 +1,5 @@
 ### Hi, I'm Ryan 👋
-I'm a mathematician and computer scientist. I like to do research in theory-heavy application areas. [Clifford](https://www.instagram.com/p/CaqYiWRMyBR) is usually a big help.
+I'm a mathematician and computer scientist. I like to work with theory-informed computer systems. [Clifford](https://www.instagram.com/p/CaqYiWRMyBR) is usually a big help.
 
 - 🧑‍🏫 I do research at the intersection of machine learning and scientific computing
 - ⚙️ I build things that sit somewhere between "pure math" and “actually useful” (like AI that uses topology to explain protein behavior and a arithmetic coding model for image compression)
