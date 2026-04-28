@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanacharette@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-charette)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.charette)
-
+---
 I'm a mathematician and computer scientist. I like to work with theory-informed computer systems. [Clifford](https://www.instagram.com/p/CaqYiWRMyBR) is usually a big help.
 
 - 🧑‍🏫 I do research at the intersection of machine learning and scientific computing
