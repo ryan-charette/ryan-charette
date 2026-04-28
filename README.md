@@ -4,6 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-charette)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.charette)
 
+![](https://raw.githubusercontent.com/ryan-charette/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ryan-charette/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ryan-charette/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ryan-charette/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 I'm a mathematician and computer scientist. I like to work with theory-informed computer systems. [Clifford](https://www.instagram.com/p/CaqYiWRMyBR) is usually a big help.
 
 - 🧑‍🏫 I do research at the intersection of machine learning and scientific computing
