@@ -12,7 +12,7 @@ I write code about shapes:
 I'm mostly looking for excuses to sneak geometry and topology into scientific simulations.
 
 <p align="center">
-  <img src="donut.gif" alt="spinning ASCII donut, topologically equivalent to a coffee mug" width="420"/><br>
+    <img src="donut.gif" alt="spinning ASCII donut, topologically equivalent to a coffee mug" width="420"/><br>
   Figure 1: spinning ASCII coffee mug
 </p>
 
