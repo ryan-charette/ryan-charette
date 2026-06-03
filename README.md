@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-charette)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.charette)
 
-I build simulation, geometry, topology, GPU, and ML systems for scientific problems.
+I build simulation, geometry, topology, GPU, and ML systems for scientific problems. I'm looking for scientific computing, research software engineering, HPC, computational geometry/topology, and ML-for-science roles.
 
 Recent work:
 
@@ -11,8 +11,6 @@ Recent work:
 - GPU-accelerated T-spline surface fitting for cardiac point clouds
 - Persistent sheaf Laplacian descriptors for protein flexibility prediction
 - Rust-based deterministic parallel simulation for spatial ecology
-
-I'm looking for scientific computing, research software engineering, HPC, computational geometry/topology, and ML-for-science roles.
 
 <p align="center">
     <img src="donut.gif" alt="spinning ASCII donut, topologically equivalent to a coffee mug" width="420"/><br>
