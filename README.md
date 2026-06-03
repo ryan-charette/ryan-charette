@@ -1,5 +1,5 @@
 ## Hi, I'm Ryan 👋 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanacharette@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryancharette@utexas.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-charette)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.charette)
 
@@ -17,4 +17,4 @@ Recent work:
   Figure 1: spinning ASCII coffee mug
 </p>
 
-Currently interested in: scientific computing/visualization, computational geometry/topology, high-performance computing, and machine learning (mostly reinforcement learning). I'm always open to collaboration! The best way to reach me is [email](mailto:ryanacharette@gmail.com).
+Currently interested in: scientific computing/visualization, computational geometry/topology, high-performance computing, and machine learning (mostly reinforcement learning). I'm always open to collaboration! The best way to reach me is [email](mailto:ryancharette@utexas.edu).
