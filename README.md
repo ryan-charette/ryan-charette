@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-charette)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.charette)
 
-I'm a scientific software engineer with a background in mathematics and computer science. I build simulation, geometry, topology, GPU, and ML systems for scientific problems.
+I'm a computational scientist with a background in mathematics and computer science. I build simulation, geometry, topology, GPU, and ML systems for scientific problems.
 
 Recent work:
 
