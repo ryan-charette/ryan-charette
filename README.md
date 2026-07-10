@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-charette)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.charette)
 
-I build simulation, geometry, topology, GPU, and ML systems for scientific problems. I'm looking for scientific computing, research software engineering, HPC, computational geometry/topology, and ML-for-science roles.
+I build and analyze high-performance simulations for problems in science and engineering. My current work revolves around uncertainty quantification and formal verification. 
 
 Recent work:
 
@@ -17,4 +17,4 @@ Recent work:
   Figure 1: spinning ASCII coffee mug
 </p>
 
-Currently interested in: scientific computing/visualization, computational geometry/topology, high-performance computing, and machine learning (mostly reinforcement learning). I'm always open to collaboration! The best way to reach me is [email](mailto:ryancharette@utexas.edu).
+I'm interested in: scientific computing/visualization, computational geometry/topology, high-performance computing, and machine learning (mostly reinforcement learning). I'm always open to collaboration! The best way to reach me is [email](mailto:ryancharette@utexas.edu).
