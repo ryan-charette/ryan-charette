@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm Ryan. My interests center on **pure mathematics, especially topology and geometry**. I enjoy moving between abstract ideas, explicit examples, and computation—exploring mathematical structures and making the reasoning behind them precise.
+I'm Ryan. My interests center on **pure mathematics, especially topology and geometry**. I enjoy moving between abstract ideas, explicit examples, and computation for exploring mathematical structures and making the reasoning behind them precise.
 
 My background in scientific computing informs how I work: mathematical software, numerical experiments, visualization, and formal proof. I'm always happy to talk math or collaborate on an interesting problem.
 
