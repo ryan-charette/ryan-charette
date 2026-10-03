@@ -1,0 +1,38 @@
+name: Refresh profile statistics
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Refresh public statistics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_stats.py
+      - name: Commit changed graphics and public data
+        run: |
+          git config user.name "Ryan Charette"
+          git config user.email "100053398+ryan-charette@users.noreply.github.com"
+          git add -- assets/github-stats.svg assets/activity.svg assets/stats.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh profile statistics"
+            git push
+          fi
